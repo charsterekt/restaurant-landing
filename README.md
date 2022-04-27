@@ -1,5 +1,6 @@
 # Modern and Responsive Landing Page
 A restaurant landing page with a modern layout and theme and complete responsiveness on all screen sizes. Implemented in React as a Figma design implementation study, original design from <a href="https://ui8.net/iqonicdesign/products/gericht-restaurant-website-ui-in-figma">here.</a> <br>
+The live site can be previewed <a href="https://restaurant-landing-study.netlify.app/">here.</a><br>
 <hr>
 
 # Getting Started with Create React App
